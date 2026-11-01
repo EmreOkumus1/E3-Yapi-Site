@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://e3yapi.com.tr/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://e3yapi.com.tr/blog/deprem-yuk-hesaplama</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://e3yapi.com.tr/blog/gebze-osb-fabrika-yatirimi-sureci</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://e3yapi.com.tr/blog/endustriyel-zemin-betonu</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
